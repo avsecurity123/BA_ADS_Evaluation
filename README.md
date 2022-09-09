@@ -18,10 +18,15 @@ pip install -r requirements.txt
 ```
 
 ## Train a new model
-
 ### Data preparation
 
-Follow the steps to pre-process:
-
+Follow the steps to pre-process: 
 [kitti](http://www.cvlibs.net/datasets/kitti/)
 
+
+## BibTex
+If you find avba useful in your research, please use the following BibTeX entry for citation.
+```BibTeX
+
+
+```
