@@ -3,9 +3,9 @@
 
 ## Introduction
 In this work, we provide three levels of backdoor attack evaluation for perception of Autonomous Driving (AD):
--- Dataset simulation;
--- LGSVL, a production-grade autonoumos driving simulator;
--- Physical autonomous vehicles: UGV and Baidu Apollo;
++ Dataset simulation;
++ LGSVL, a production-grade autonoumos driving simulator;
++ Physical autonomous vehicles: UGV and Baidu Apollo;
 
 We target three foundamental functions in AD systems including obstacle detection, lane detection and traffic light detection, to reveal severe security threat to Autonomous Vehicles (AV). 
 
