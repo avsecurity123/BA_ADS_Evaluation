@@ -25,9 +25,17 @@ pip install -r requirements.txt
 ## Train a new model
 ### Data preparation
 
+## Well-trained backdoor models and poisoned datasets
+Please download the models and poisoned datasets in Drive:
+[Models and Datasets](https://entuedu-my.sharepoint.com/:f:/g/personal/xingshuo001_e_ntu_edu_sg/EpOauaxGG1pNjegCv-NyFzYBa3lpIMFJPHKdegJsx7dzCg?e=4xC13J)
+## Datasets simulation
+
 Follow the steps to pre-process: 
 [kitti](http://www.cvlibs.net/datasets/kitti/)
 
+## LGSVL simulator
+
+## Physical evaluation with AVs.
 
 ## BibTex
 If you find avba useful in your research, please use the following BibTeX entry for citation.
