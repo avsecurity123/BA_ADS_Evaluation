@@ -22,6 +22,6 @@ pip install -r requirements.txt
 ### Data preparation
 
 Follow the steps to pre-process:
-- Kitti datasets 
 
-Follow the steps in [`clustering`](avhubert/clustering/) (pre-train only) to create:
+[kitti](http://www.cvlibs.net/datasets/kitti/)
+
